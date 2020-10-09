@@ -14,3 +14,10 @@ https://qiita.com/kakeijin/items/85967d4e4c0dc3a1e727
 
 ローカル変数・インスタンス変数・クラス変数
 https://qiita.com/mary_new_programmer/items/4c4353c3d1df7242f515
+
+## 進数
+8進数
+https://wa3.i-3-i.info/word1612.html
+
+2進数/16進数
+https://qiita.com/inabe49/items/805c2d2bcd9e70c37ef6
