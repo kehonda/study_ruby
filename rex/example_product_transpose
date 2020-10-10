@@ -1,0 +1,7 @@
+p [1,2].product([3,4]).transpose
+
+
+p [1,2].product([3,4])
+
+p [[1,2],[3,4]].transpose
+
