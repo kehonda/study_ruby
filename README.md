@@ -15,6 +15,11 @@ https://qiita.com/kakeijin/items/85967d4e4c0dc3a1e727
 ローカル変数・インスタンス変数・クラス変数
 https://qiita.com/mary_new_programmer/items/4c4353c3d1df7242f515
 
+### グローバル変数もあった
+そのプロジェクト内、どこでも使用できる変数
+- $マークをつける
+
+
 ## 進数
 8進数
 https://wa3.i-3-i.info/word1612.html
