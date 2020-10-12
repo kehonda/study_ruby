@@ -13,3 +13,14 @@ p ".+ #{mozart.+listend}"
 
 a = [1,2,3,4]
 p a[2,1]
+
+
+a, b = 0
+p a
+ 
+c, a = 1
+a, d = 1, 2
+b, c = 3
+
+p a
+p [a, b, c, d]

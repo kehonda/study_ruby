@@ -31,3 +31,6 @@ p a[1, 2]
 p a[0...1]
 p a[-2..4]
 p a[-2..5]
+
+str = "abcdefghijk"
+p str[1..3]
