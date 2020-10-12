@@ -10,3 +10,6 @@ p ".+ #{mozart.+listend}"
 
 # しゅつりょく
 # ["Piano Conerto","Violin Sonata"]
+
+a = [1,2,3,4]
+p a[2,1]
