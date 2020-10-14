@@ -34,3 +34,6 @@ p a[-2..5]
 
 str = "abcdefghijk"
 p str[1..3]
+
+p "RubyOnRailsAndGo".slice(/r../)
+p "RubyOnRailsAndGo".slice(/R../)
