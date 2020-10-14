@@ -26,3 +26,7 @@ https://wa3.i-3-i.info/word1612.html
 
 2進数/16進数
 https://qiita.com/inabe49/items/805c2d2bcd9e70c37ef6
+
+# まじっくこめんと
+encoding: utf-8
+ENCODING: UTF-8
